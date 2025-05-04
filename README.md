@@ -1,27 +1,49 @@
-## 👋 Hey there, I'm @Mr-RobotMan
+<h1 align="center">Hi there 👋, I'm Mr-RobotMan</h1>
 
-🧠 Aspiring Computer Science Engineer with a passion for systems, algorithms, and building cool stuff.
-
-### 🛠️ Currently Learning:
-- C / C++
-- Data Structures and Algorithms
-- Basic JavaScript & Frontend Development
-
-### 🚀 Projects I'm Working On:
-- 🎮 **MotionMadness** – A physics-based C++ simulation playground.
-- 📚 **CramBuddy** – A JavaScript-based quick-revision app.
-- 📦 **ds_library_c** – My own C library for essential data structures.
-- 🧮 **math_nn** – Numeric methods and algorithms in C.
-- 🧪 **test** – Experiments and problem-solving in C++.
-
-### 🌱 Goals:
-- Master DSA in C++
-- Learn systems design and networking
-- Explore ML and algorithmic trading later down the line
-
-### 📫 Let's Connect:
-Feel free to drop a message or check out my repos. Always open to collabs and feedback!
+<p align="center">
+  🚀 Aspiring Computer Science Engineer | 🧠 Lifelong Learner | 💻 C/C++ Enthusiast
+</p>
 
 ---
 
-⚙️ *Profile auto-configs live in the [Mr-RobotMan](https://github.com/Mr-RobotMan/Mr-RobotMan) repo.*
+### 🔧 Tech Stack
+
+- 💻 C / C++
+- 🌐 JavaScript (Basics)
+- 📚 Data Structures & Algorithms
+- 🛠️ Working with Git and GitHub
+
+---
+
+### 🧠 Currently Learning
+
+- Advanced C++ and STL
+- Problem Solving & DSA
+- Fundamentals of Web Dev
+
+---
+
+### 🚧 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**MotionMadness**](https://github.com/Mr-RobotMan/MotionMadness) | A physics-based simulation playground. | `C++` |
+| [**CramBuddy**](https://github.com/Mr-RobotMan/CramBuddy) | Quick-revision tool for students. | `JavaScript` |
+| [**ds_library_c**](https://github.com/Mr-RobotMan/ds_library_c) | My own C library for core data structures. | `C` |
+| [**math_nn**](https://github.com/Mr-RobotMan/math_nn) | Numerical methods implemented in C. | `C` |
+| [**test**](https://github.com/Mr-RobotMan/test) | Sandbox for C++ experiments. | `C++` |
+
+---
+
+
+### 🌱 Future Goals
+
+- Build cool open-source tools
+- Contribute to real-world systems projects
+- Dive into Machine Learning + Networking + Systems Design
+
+---
+
+### 🤝 Let’s Connect
+
+Feel free to explore my repositories and drop a ⭐ if you find something useful. I'm always open to collaboration and learning from others in the dev community!
